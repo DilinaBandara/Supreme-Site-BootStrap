@@ -1,0 +1,132 @@
+body{
+    font-family: Nunito, sans-serif;
+    color: #000000;
+    background-color: white;
+}
+
+/* Nav bar and breadcrumb container */
+.navbar{
+    background-color: #000000;
+}
+
+.nav-bar-links{
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.nav-bar-links a{
+    text-decoration: none;
+    color: white;
+    padding-left: 12px;
+    padding-right:12px; 
+    font-size: 14px;
+    font-size: 400;
+    line-height: 15.4px;
+    font-family:Hind, sans-serif ;
+}
+
+a:hover{
+    color: red;
+}
+
+.navbar-icons i{
+    color: white;
+    font-size:20px;  
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.breadcrumb-container{
+    padding-left: 100px;
+    height: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-family: Nunito, sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 22px;
+    background: #f7f8fa;
+    color: #777;
+}
+/* End of Nav bar and breadcrumb container */
+
+/* Start of container */
+.container{
+    margin-top: 30px;
+    height: auto;
+    width: 100%;
+}
+.page-left{
+    height: auto;
+}
+
+.page-right{
+    Font-size: 14px;
+    Font-weight: 300;
+    line-height: 22px;
+}
+
+.banner-img{
+    object-fit: fill;
+    width: 100%;
+}
+
+.description{
+    text-align: center;
+}
+
+.item-bar{
+    padding-top: 52px;
+}
+
+.item-bar-left{
+    Font-size: 24px;
+    Font-weight:500;
+    Line-height: 34px;
+    color:rgb(25, 25, 2);
+}
+
+.item-bar-right{
+    text-align:right;
+    padding-right: 200px;   
+}
+
+.img-grid{
+    margin-top: 50px;
+}
+
+.img-box{
+    position:relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 28px;
+}
+
+.img-grid, span.p{
+    text-align: center;
+}
+
+p{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+}
+
+.supreme-text{
+    font-family:Nunito, sans-serif;
+    font-size:12px;
+    font-weight:400;
+    line-height:19px;
+    color: rgb(0, 0, 0)
+}
+
+.img-desc{
+    margin:0;
+}
+
+.txt-1, .txt-3{
+    padding-top:16px
+}
+
+
